@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.full-container {
+  max-width: 1140px;
+  margin: auto;
+}
+.heading {
+  text-align: center;
+}
+.lang-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  list-style: none;
+  padding: 0;
+}
+.repo-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  list-style: none;
+  padding: 0;
+  justify-content: center;
+}
+.full-container .load {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

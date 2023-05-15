@@ -1,0 +1,6 @@
+/* Write your CSS here */
+.list-item button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}

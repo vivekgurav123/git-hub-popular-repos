@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.repo-items {
+  width: 200px;
+  text-align: center;
+  padding: 10px 20px;
+}
+.repo-items img {
+  max-width: 50%;
+  /* text-align: center; */
+}
+.repo-items h1 {
+  font-size: 18px;
+  color: #e73959;
+  /* text-align: center; */
+}
+.repo-items p {
+  text-align: left;
+}
+.star {
+  height: 20px;
+  width: 20px;
+}
